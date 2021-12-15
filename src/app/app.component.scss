@@ -1,0 +1,25 @@
+#content {
+  overflow: visible;
+  text-align: center;
+  font-size: 1.5rem;
+}
+#container {
+  width: 100%;
+}
+
+a {
+  font-size: 22px;
+  opacity: 0.8;
+}
+
+a:hover,
+#logo:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+#logo {
+  font-family: "Bad Script", cursive;
+  width: 50px;
+  opacity: 0.8;
+}
